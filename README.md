@@ -1,1 +1,1 @@
-# apple_copy
+This is a clone of apple(India) website.
